@@ -1,0 +1,6 @@
+{
+  "name": "Web Deployer System",
+  "description": "An interactive workspace to upload, extract, preview, edit, and instantly deploy static web applications directly to GitHub repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
